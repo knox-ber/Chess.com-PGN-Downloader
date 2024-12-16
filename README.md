@@ -22,20 +22,20 @@ A Python script that retrieves Chess.com games in PGN format either all or withi
 
 1. **Run the script:**  
    Execute the Python script and enter your Chess.com username when prompted.
-   ![Screenshot_20241215_212001](https://github.com/user-attachments/assets/e66402c5-ffdb-4a2f-aeb7-9359fbba969c)
+   ![](https://github.com/knox-ber/Chess.com-PGN-Downloader/blob/main/Pictures/Screenshot_20241215_212001.png)
 
-2. **Choose download mode:**  
+3. **Choose download mode:**  
    - **Option 1:** Download all games  
    - **Option 2:** Download games played within a specified number of days
-   ![Screenshot_20241215_212100](https://github.com/user-attachments/assets/1484b64c-4bd2-4b0f-bac2-d03b18fe234a)
+   ![](https://github.com/knox-ber/Chess.com-PGN-Downloader/blob/main/Pictures/Screenshot_20241215_212100.png)
   
-3. **Import process:**  
+4. **Import process:**  
    The script will fetch and combine all retrieved games into one PGN file.
-   ![Screenshot_20241215_212213](https://github.com/user-attachments/assets/c0840a79-695a-43ee-8e23-da84584836a6)
+   ![](https://github.com/knox-ber/Chess.com-PGN-Downloader/blob/main/Pictures/Screenshot_20241215_212213.png)
 
-4. **Result:**  
+5. **Result:**  
    Once complete, the combined PGN file will appear on your desktop.
-   ![Screenshot_20241215_212354](https://github.com/user-attachments/assets/661daa06-a450-42ee-9e02-1eb642c08787)
+   ![](https://github.com/knox-ber/Chess.com-PGN-Downloader/blob/main/Pictures/Screenshot_20241215_212354.png)
 
 ## 💻 Requirements
 
