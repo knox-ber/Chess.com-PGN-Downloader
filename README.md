@@ -51,7 +51,7 @@ A Python script that retrieves Chess.com games in PGN format either all or withi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chess-pgn-downloader.git
+   git clone https://github.com/knox-ber/chess-pgn-downloader.git
 2. Navigate into the project directory:
    ```bash
    cd chess-pgn-downloader
